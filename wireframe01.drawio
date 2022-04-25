@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T11:56:44.746Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="8ozsZxIK5FKhPCJFfz8r" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T11:58:20.398Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="2PxyQE1mnhx_j9bPLnrt" version="17.4.6" type="github">
   <diagram id="nGL7ZHH3GVYGpoVl97JO" name="Page-1">
     <mxGraphModel dx="1422" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="TG5Y0yn545t35H6UM6wR-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Lucida Console;" vertex="1" parent="1">
           <mxGeometry x="564" y="468" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="TG5Y0yn545t35H6UM6wR-20" value="&quot; Derek &amp;amp; Susan - Luna Loves has been instrumental in discovering our wants and needs in our relationship, helping us forge tools for communication" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
+        <mxCell id="TG5Y0yn545t35H6UM6wR-20" value="&lt;h3&gt;&quot; Derek &amp;amp; Susan - Luna Loves has been instrumental in discovering our wants and needs in our relationship, helping us forge tools for communicating our needs. It&#39;s deepened our connection and opened up our vulnerability&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="684" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TG5Y0yn545t35H6UM6wR-23" value="&lt;font face=&quot;Courier New&quot;&gt;Events&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;strokeColor=none;fillColor=none;" vertex="1" parent="1">
